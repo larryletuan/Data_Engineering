@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32901.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "loadDim", "loadDim\loadDim.dtproj", "{4E20BB57-39D9-45F6-86D9-561AE527F740}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E20BB57-39D9-45F6-86D9-561AE527F740}.Development|Default.ActiveCfg = Development
+		{4E20BB57-39D9-45F6-86D9-561AE527F740}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F1BFDBB-C70F-455F-9385-866BBF0FEC36}
+	EndGlobalSection
+EndGlobal
